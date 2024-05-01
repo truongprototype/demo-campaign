@@ -1,0 +1,47 @@
+{
+  "campaign": {
+    "information": [
+      {
+        "id": "lvnu23zr4fbems89zh",
+        "name": "Think different",
+        "describe": "Think different is an advertising slogan used from 1997 to 2002 by Apple Computer, Inc."
+      },
+      {
+        "id": "lvnu25svxaerapa7ge",
+        "name": "Share a coke",
+        "describe": "Share a Coke is a multi-national marketing campaign of Coca-Cola."
+      }
+    ],
+    "subCampaigne": [
+      {
+        "id": "lvnu2acf0se4p07ffoep",
+        "name": "Think different",
+        "status": true,
+        "ads": [
+          {
+            "id": "lvnu35ni6cwmzamgutu",
+            "name": "Televition ad",
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "id": "lvnu2bdg9meka917i7e",
+        "name": "Share a coke",
+        "status": false,
+        "ads": [
+          {
+            "id": "lvnu369ke8bxw4plx8l",
+            "name": "Social network ad",
+            "quantity": 1
+          },
+          {
+            "id": "lvnu36tj4i15bsxj3sm",
+            "name": "Dirty campaign",
+            "quantity": 2
+          }
+        ]
+      }
+    ]
+  }
+}
